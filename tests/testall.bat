@@ -71,12 +71,14 @@ call testall t_56000
 call testall t_56300
 call testall t_65
 call testall t_6502u
+call testall t_65c19
 call testall t_6804
 call testall t_68040
 call testall t_6805
 call testall t_6808
 call testall t_6812
 call testall t_6816
+call testall t_68kaddr
 call testall t_68kdis
 call testall t_68rs08
 call testall t_7000
@@ -91,8 +93,10 @@ call testall t_78c1x
 call testall t_78k0
 call testall t_78k2
 call testall t_78k3
+call testall t_78k4
 call testall t_8008
 call testall t_807x
+call testall t_80c382
 call testall t_821
 call testall t_85
 call testall t_870c
@@ -128,6 +132,7 @@ call testall t_h8_3
 call testall t_h8_5
 call testall t_hcs08
 call testall t_hmcs4x
+call testall t_huc6280
 call testall t_longline
 call testall t_m16
 call testall t_m16c
@@ -136,9 +141,11 @@ call testall t_mcore
 call testall t_mic51
 call testall t_mico8
 call testall t_msp
+call testall t_msp430x
 call testall t_nestedstructs
 call testall t_olms40
 call testall t_olms50
+call testall t_oki48
 call testall t_parsys
 call testall t_s12x
 call testall t_scmp
@@ -154,6 +161,7 @@ call testall t_tms1000
 call testall t_tms1100
 call testall t_tms7
 call testall t_vector
+call testall t_w65c02s
 call testall t_xa
 call testall t_xcore
 call testall t_xgate
