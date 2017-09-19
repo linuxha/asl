@@ -8,9 +8,9 @@ I set this up under Git control so I don't lose the code. I use this with the
 the SC.
 
 # Links
-[The original website](http://john.ccac.rwth-aachen.de:8000/as/)
-[Online documentation](http://john.ccac.rwth-aachen.de:8000/as/as_EN.html)
-http://john.ccac.rwth-aachen.de:8000/as/
+* [The original website](http://john.ccac.rwth-aachen.de:8000/as/)
+* [Online documentation](http://john.ccac.rwth-aachen.de:8000/as/as_EN.html)
+* http://john.ccac.rwth-aachen.de:8000/as/
 
 # ToDo
 Lots to do.
